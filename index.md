@@ -1,26 +1,26 @@
 # Content Strategy
-[Sample]
+Draft
 
 ## Contents
 
 - [Our Content Strategy](#our-content-strategy)
-- [Introduction]()
-- [Strategy Review]()
-- [Strategic Objectives and Benefits]()
-- [Writing Style Guidelines]()
-- [Best Practice Recommendations]()
-- [Make Reading Easy for All Devices]()
-- [Frequently Asked Questions]()
-- [Attachments (Microsoft Office Files and PDFs)]()
-- [Content Structure]()
-- [Terms to Avoid]()
-- [Writing Guidelines]()
-- [Content Governance]()
-- [Quality Assurance]()
-- [Roles and Responsibilities]()
+- [Introduction](#introduction)
+- [Strategy Review](#strategy-review)
+- [Strategic Objectives and Benefits](#strategic-objectives-and-benefits)
+- [Writing Style Guidelines](#writing-style-guidelines)
+- [Best Practice Recommendations](#best-practice-recommendations)
+- [Make Reading Easy for All Devices](#make-reading-easy-for-all-devices)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Attachments (Microsoft Office Files and PDFs)](#attachments)
+- [Content Structure](#content-structure)
+- [Terms to Avoid](#terms-to-avoid)
+- [Writing Guidelines](#writing-guidelines)
+- [Content Governance](#content-governance)
+- [Quality Assurance](#quality-assurance)
+- [Roles and Responsibilities](#roles-and-responsibilities)
 - [Workflow](#workflow)
-- [Content Review Timetable]()
-- [Appendices]()
+- [Content Review Timetable](#content-review-timetable)
+- [Appendices](#appendices)
 - [Appendix 1: Content Inventory]()
 - [Appendix 2: Sample Content]()
 - [Appendix 3: Site Structure and Content Types]()
@@ -76,8 +76,6 @@ If our content is presented using a clear single voice, even if it has been writ
 Reduce avoidable contact via other channels
 Effectively enforcing this Content Strategy will reduce the time and costs involved in managing customers who are driven to contact us via other channels because they cannot find what they need. This strategy will ensure that content is produced and presented in a manner that will encourage Channel Shift where appropriate.
 
-
- 
 # Writing Style Guidelines
 
 ## Best Practice Recommendations
@@ -111,7 +109,6 @@ Only use graphics and images if they help the customer to understand the content
 As a general rule do not use images.
 
 Take the time to read the LocalGov Digital Content Guidelines as these provide a useful 'best practice' guide to help you to understand key concepts to use when writing your content.
-
 
 ## Make Reading Easy for All Devices
 - Use clear and meaningful headings and sub-headings to guide the reader through your content.
@@ -153,7 +150,7 @@ Information based content
 - The first paragraph of content should be a brief overview of the content to help the customer understand if it is what they are looking for.
 - Break detailed information into clear sections using sub-headings.
 
-Terms to Avoid
+## Terms to Avoid
 
 - Writing well for the Web means taking advantage of the options the Web offers, but at the same time, not calling attention to the Web. "Click here," "follow this link," and "this Web site" are just a few self-referential terms to avoid.
 - Generally, if the words or phrases are specific to Web use, then they are probably words to avoid. A good test of web-term overuse is to print the page out, read it, and ask yourself if it makes as much sense on paper as it does on screen.
@@ -162,8 +159,9 @@ Terms to Avoid
 - Use language that the customer would use.
 
 ## Writing Guidelines
-When writing for the web, it is important to follow the principles of Plain English. In other words, keep your meanings simple and clear – and, just think, if you do not really understand something, who else will? For more information on Plain English, visit www.plainenglish.co.uk 
+When writing for the web, it is important to follow the principles of Plain English. In other words, keep your meanings simple and clear – and, just think, if you do not really understand something, who else will?
 
+[More about Plain English](www.plainenglish.co.uk)
 
 
 ### General writing style
@@ -230,8 +228,6 @@ When writing for the web, it is important to follow the principles of Plain Engl
 ### Common Mistakes
 - Council is singular eg the council is ... not the council are.
 - Never abbreviate to Cllr. It should be Councillor John Smith, then Councillor Smith.
-
----
  
 ## Content Governance
 
@@ -272,8 +268,6 @@ Expiry Dates: Where an item has a fixed lifespan (e.g. a campaign, seasonal cont
 
 If no review or expiry date has been set then the item will be rejected by the Web Team.
 
-
- 
 ## Appendices
 
 ### Appendix 1: Content Inventory
