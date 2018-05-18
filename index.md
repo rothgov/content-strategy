@@ -161,7 +161,7 @@ Information based content
 ## Writing Guidelines
 When writing for the web, it is important to follow the principles of Plain English. In other words, keep your meanings simple and clear – and, just think, if you do not really understand something, who else will?
 
-[More about Plain English](www.plainenglish.co.uk)
+[Visit the Plain English website](http://www.plainenglish.co.uk/)
 
 
 ### General writing style
