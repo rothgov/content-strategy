@@ -245,7 +245,7 @@ Useful for breaking up chunks of text and clarifying it. They serve the same pur
 
 ### Common Mistakes
 - council is singular eg the council is ... not the council are
-- never abbreviate to Cllr. It should be Councillor John Smith, then Councillor Smith
+- never abbreviate to Cllr - It should be Councillor John Smith, then Councillor Smith
 
 ## Content Governance
 
