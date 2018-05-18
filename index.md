@@ -3,30 +3,29 @@
 
 ## Contents
 
-- Our Content Strategy
-- Introduction
-- Strategy Review
-- Strategic Objectives and Benefits
-- Writing Style Guidelines
-- Best Practice Recommendations
-- Make Reading Easy for All Devices
-- Frequently Asked Questions
-- Attachments (Microsoft Office Files and PDFs)
-- Content Structure
-- Terms to Avoid
-- Writing Guidelines
-- Content Governance
-- Quality Assurance
-- Roles and Responsibilities
-- Workflow
-- Content Review Timetable
-- Appendices
-- Appendix 1: Content Inventory
-- Appendix 2: Sample Content
-- Appendix 3: Site Structure and Content Types
+- [Our Content Strategy](#our-content-strategy)
+- [Introduction]()
+- [Strategy Review]()
+- [Strategic Objectives and Benefits]()
+- [Writing Style Guidelines]()
+- [Best Practice Recommendations]()
+- [Make Reading Easy for All Devices]()
+- [Frequently Asked Questions]()
+- [Attachments (Microsoft Office Files and PDFs)]()
+- [Content Structure]()
+- [Terms to Avoid]()
+- [Writing Guidelines]()
+- [Content Governance]()
+- [Quality Assurance]()
+- [Roles and Responsibilities]()
+- [Workflow](#workflow)
+- [Content Review Timetable]()
+- [Appendices]()
+- [Appendix 1: Content Inventory]()
+- [Appendix 2: Sample Content]()
+- [Appendix 3: Site Structure and Content Types]()
 
 
- 
 # Our Content Strategy
 
 ## Introduction
@@ -79,9 +78,9 @@ Effectively enforcing this Content Strategy will reduce the time and costs invol
 
 
  
-## Writing Style Guidelines
+# Writing Style Guidelines
 
-### Best Practice Recommendations
+## Best Practice Recommendations
 The purpose of the Council's website is not to publish everything about us, but to present clear customer-focused information to enable them to interact with us efficiently. This means avoiding wherever possible the publication of overly detailed information, or information for which the Council is not responsible or does not directly help the customer - it is about publishing only the information that the customer needs to complete the task. As Erin Kissane says in The Elements of Content Strategy (2011):
 
 "Content is appropriate for users when it helps them accomplish their goals… offering them precisely what they need, exactly when they need it, and in just the right form."
@@ -114,7 +113,7 @@ As a general rule do not use images.
 Take the time to read the LocalGov Digital Content Guidelines as these provide a useful 'best practice' guide to help you to understand key concepts to use when writing your content.
 
 
-### Make Reading Easy for All Devices
+## Make Reading Easy for All Devices
 - Use clear and meaningful headings and sub-headings to guide the reader through your content.
 - Don't shout by USING CAPITALS for emphasis. This is extremely hard to read.
 - Slow down the scanning eye and draw attention to important points by using bulleted lists.
