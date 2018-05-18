@@ -105,7 +105,7 @@ Always ask why the customer would be on the page and what you would expect them 
 Content that serves no customer focused purpose will clutter the website with unnecessary information, making it harder for customers to find the information they actually need. It also wastes your time having to manage it.
 
 ### Can the content be found using search words that make sense to the customer?
-When writing your content use language that the customer would use. This will help boost your content ranking in search as the text will match the terms that the customer is searching for. Pay particular attentions to the use of keywords in your title and include the key term the customer would search for (for example, on GOV.uk there is a page called 'Renew Your Tax Disc' even though the term is incorrect, but in general people don't use the correct term which is 'Vehicle License').
+When writing your content use language that the customer would use. This will help boost your content ranking in search as the text will match the terms that the customer is searching for. Pay particular attentions to the use of keywords in your title and include the key term the customer would search for (for example, on GOV.UK there is a page called 'Renew Your Tax Disc' even though the term is incorrect, but in general people don't use the correct term which is 'Vehicle License').
 
 ### Is your content easy-to-read and understandable to a layperson?
 Use accessible, Plain English and avoid jargon. Your content is written for consumption by users that will not have the same level of understanding of council services as you so you need to account for this when writing it.
