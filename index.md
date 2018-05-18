@@ -7,12 +7,12 @@ Draft
 
 ## Contents
 
-[### Our Content Strategy](#our-content-strategy)
+[Our Content Strategy](#our-content-strategy)
 - [Introduction](#introduction)
 - [Strategy Review](#strategy-review)
 - [Strategic Objectives and Benefits](#strategic-objectives-and-benefits)
 
-[### Writing Style Guidelines](#writing-style-guidelines)
+[Writing Style Guidelines](#writing-style-guidelines)
 - [Best Practice Recommendations](#best-practice-recommendations)
 - [Make Reading Easy for All Devices](#make-reading-easy-for-all-devices)
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -21,16 +21,16 @@ Draft
 - [Terms to Avoid](#terms-to-avoid)
 - [Writing Guidelines](#writing-guidelines)
 
-[### Content Governance](#content-governance)
+[Content Governance](#content-governance)
 - [Quality Assurance](#quality-assurance)
 - [Roles and Responsibilities](#roles-and-responsibilities)
 - [Workflow](#workflow)
 - [Content Review Timetable](#content-review-timetable)
 
 [### Appendices](#appendices)
-- [Appendix 1: Content Inventory]()
-- [Appendix 2: Sample Content]()
-- [Appendix 3: Site Structure and Content Types]()
+- [Appendix 1: Content Inventory]
+- [Appendix 2: Sample Content]
+- [Appendix 3: Site Structure and Content Types]
 
 
 # Our Content Strategy
