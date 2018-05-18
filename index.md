@@ -192,15 +192,13 @@ When writing for the web, it is important to follow the principles of Plain Engl
 
 ### Numbers
 - one to nine written out, 10 upwards in numbers with the following exceptions:
-
-○	Century always write out, eg nineteenth century. 
-○	Bus numbers eg bus 5, 6, 7 or 27. 
-○	Times 6pm, 9pm, 5.30pm. 
-○	Where it would cause inconsistencies eg children aged 4-10 rather than four-10.
-○	Where unit of measurement is abbreviated eg km. 
-○	Where version of software eg internet explorer 5. 
-○	60s not 1960s, and not 60's.
-
+ - century always write out, eg nineteenth century. 
+ - bus numbers eg bus 5, 6, 7 or 27. 
+ - times 6pm, 9pm, 5.30pm. 
+ - where it would cause inconsistencies eg children aged 4-10 rather than four-10
+ - where unit of measurement is abbreviated eg km
+ - where version of software eg internet explorer 5
+ - 60s not 1960s, and not 60's
 - always use figures with decimal points and percentages
 - use symbols with figures eg £243.57, 16%.
 - spell out amounts over one hundred thousand eg three million, 12 billion
@@ -248,7 +246,7 @@ Useful for breaking up chunks of text and clarifying it. They serve the same pur
 ### Common Mistakes
 - council is singular eg the council is ... not the council are
 - never abbreviate to Cllr. It should be Councillor John Smith, then Councillor Smith
- 
+
 ## Content Governance
 
 ### Quality Assurance
