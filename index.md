@@ -19,6 +19,7 @@ Draft
 - [Attachments (Microsoft Office Files and PDFs)](#attachments)
 - [Content Structure](#content-structure)
 - [Terms to Avoid](#terms-to-avoid)
+- [Words to Avoid](#words-to-avoid)
 - [Writing Guidelines](#writing-guidelines)
 
 [Content Governance](#content-governance)
@@ -171,6 +172,52 @@ Generally, if the words or phrases are specific to Web use, then they are probab
 - don't use words that date content such as 'new'
 - don't use jargon
 - use language that the customer would use
+
+## Words to avoid
+
+Plain English is mandatory for all of Rotherham.gov.uk so please avoid using these words:
+
+- agenda (unless it's for a meeting)
+- advancing
+- collaborate (use working with)
+- combating
+- commit/pledge (we need to be more specific - we're either doing something or we're not)
+- countering
+- deliver (pizzas, post and services are delivered - not abstract concepts like improvements or priorities)
+- deploy (unless it's military or software)
+- dialogue (we speak to people)
+- disincentivise (and incentivise)
+- empower
+- facilitate (instead, say something specific about how you're helping)
+- focusing
+- foster (unless it's children)
+- impact (do not use this as a synonym for have an effect on, or influence)
+- initiate
+- key (unless it unlocks something. A subject/thing is not key - it's probably important)
+- land (as a verb only use if you're talking about aircraft)
+- leverage (unless in the financial sense)
+- liaise
+- overarching
+- progress (as a verb - what are you actually doing?)
+- promote (unless you're talking about an ad campaign or some other marketing promotion)
+- robust
+- slimming down (processes do not diet)
+- streamline
+- strengthening (unless it's strengthening bridges or other structures)
+- tackling (unless it's rugby, football or some other sport)
+- transforming (what are you actually doing to change it?)
+- utilise
+
+Avoid using metaphors – they do not say what you actually mean and lead to slower comprehension of your content. For example:
+
+- drive (you can only drive vehicles, not schemes or people)
+- drive out (unless it's cattle)
+- going forward (it's unlikely we are giving travel directions)
+- in order to (superfluous - do not use it)
+- one-stop shop (we are government, not a retail outlet)
+- ring fencing
+
+With all of these words you can generally replace them by breaking the term into what you're actually doing. Be open and specific.
 
 ## Writing Guidelines
 When writing for the web, it is important to follow the principles of Plain English. In other words, keep your meanings simple and clear – and, just think, if you do not really understand something, who else will?
