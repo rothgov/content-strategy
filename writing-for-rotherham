@@ -106,28 +106,28 @@ If you’re writing for a specialist audience, you still need to make sure every
 
 ---
 
-How people read
+### How people read
 Knowing how people read means you’ll write in a way they can understand easily and quickly - so you do not waste their time.
 
 All of this guidance is based on the learning skills of an average person in the UK, who speaks English as their first language. This guidance also applies when you’re writing for specialists.
 
-Common words
+### Common words
 By the time a child is 5 or 6 years old, they’ll use 2,500 to 5,000 common words. Adults still find these words easier to recognise and understand than words they’ve learned since.
 
 By age 9, you’re building up your ‘common words’ vocabulary. Your primary set is around 5,000 words; your secondary set is around 10,000 words. You use these words every day.
 
-Use short words instead of long words
+### Use short words instead of long words
 When you use a longer word (8 or 9 letters), users are more likely to skip shorter words (3, 4 or 5 letters) that follow it. So if you use longer, more complicated words, readers will skip more. Keep it simple.
 
 For example:
 
-“The recently implemented categorical standardisation procedure on waste oil should not be applied before 1 January 2015.”
+> “The recently implemented categorical standardisation procedure on waste oil should not be applied before 1 January 2015.”
 
 The ‘not’ is far more obvious in this:
 
-“Do not use the new waste oil standards before 1 January 2015.”
+> “Do not use the new waste oil standards before 1 January 2015.”
 
-Reading skills
+### Reading skills
 Children quickly learn to read common words (the 5000 words they use most). They then stop reading these words and start recognising their shape. This allows people to read much faster. Children already read like this by the time they’re 9 years old.
 
 People also do not read one word at a time. They bounce around - especially online. They anticipate words and fill them in.
@@ -136,17 +136,17 @@ Your brain can drop up to 30% of the text and still understand. Your vocabulary 
 
 This is why we tell people to write on Rotherham.gov.uk for a 9 year old reading age.
 
-Explaining the unusual
+### Explaining the unusual
 We explain all unusual terms on Rotherham.gov.uk. This is because you can understand 6-letter words as easily as 2-letter words – if they’re in context. If the context is right, you can read a short word faster than a single letter.
 
 By giving full information and using common words, we’re helping people speed up their reading and understand information in the fastest possible way.
 
-Short sentences
+### Short sentences
 People with some learning disabilities read letter for letter - they do not bounce around like other users. They also cannot fully understand a sentence if it’s too long.
 
 People with moderate learning disabilities can understand sentences of 5 to 8 words without difficulty. By using common words we can help all users understand sentences of around 25 words.
 
-Capital letters are harder to read
+### Capital letters are harder to read
 When you learn to read, you start with a mix of upper and lower case but you do not start understanding uppercase until you’re around 6 years old.
 
 At first, you may sound out letters, merge sounds, merge letters and so learn the word.
@@ -161,12 +161,12 @@ Capital letters are reputed to be 13 to 18% harder for users to read. So we try 
 
 Block capitals indicate shouting in common online usage. We are government. We should not be shouting.
 
-Ampersands can be hard to understand
+### Ampersands can be hard to understand
 Ampersands are allowed in logos – the pictorial logo at the top of an organisation page – but not in body copy.
 
 The reason is that ‘and’ is easier to read and easier to skim. Some people with lower literacy levels also find ampersands harder to understand. As government, we cannot exclude users in any way.
 
-How users read web pages
+### How users read web pages
 Users read very differently online than on paper. They do not necessarily read top to bottom or even from word to word.
 
 Instead, users only read about 20 to 28% of a web page. Where users just want to complete their task as quickly as possible, they skim even more out of impatience.
@@ -177,19 +177,21 @@ What this means is: put the most important information first. So we talk a lot a
 
 For example, say ‘Canteen menu’, not ‘What’s on the menu at the canteen today?’
 
-Good example
+### Good example
 At the activity centre you can:
+- swim
+- play
+- run
 
-swim
-play
-run
-Bad example
+### Bad example
 At the activity centre:
+- you can swim
+- you can play
+- you can run
+ 
+--
 
-you can swim
-you can play
-you can run
-Titles
+## Titles
 Most people who use Rotherham.gov.uk start with a search engine. Use the same vocabulary as your audience so they can find your content. This begins with your page title and summary.
 
 If people cannot find your page or understand the content, they will not be able to act on it or know it’s for them.
