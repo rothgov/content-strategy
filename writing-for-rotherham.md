@@ -6,15 +6,15 @@ title: Writing for Rotherham.gov.uk
 How to write well for your audience, including specialists.
 
 ## Contents
-- [Writing well for the web]()
-- [Writing well for specialists]()
-- [Know your audience]()
-- [How people read]()
-- [Titles]()
-- [Summaries]()
-- [Structuring your content]()
-- [Writing to Rotherham.gov.uk style]()
-- [After publication]()
+- [Writing well for the web](#writing-well-for-the-web)
+- [Writing well for specialists](#writing-well-for-specialits)
+- [Know your audience](#know-your-audience)
+- [How people read](#how-people-read)
+- [Titles](#titles)
+- [Summaries](#summaries)
+- [Structuring your content](#structuring-your-content)
+- [Writing to Rotherham.gov.uk style](#writing-to-rotherham.gov.uk-style)
+- [After publication](#after-publication)
 
 ## Writing well for the web
 People read differently on the web than they do on paper. This means that the best approach when writing for the web is different from writing for print.
