@@ -332,48 +332,51 @@ Good summary example: Get the supporting materials for the ‘gas pollution cont
 
 ---
 
-Structuring your content
-Page length
+### Structuring your content
+## Page length
 There is no minimum or maximum page length for Rotherham.gov.uk. However:
+- people only read 20 to 28% of text on a web page anyway
+- remember that the pressure on the brain to understand increases for every 100 words you put on a page
 
-people only read 20 to 28% of text on a web page anyway
-remember that the pressure on the brain to understand increases for every 100 words you put on a page
 This means that the quicker you get to the point, the greater the chance your target audience will see the information you want them to.
 
 It’s most important that you write well. If you write only a single paragraph but it’s full of caveats, jargon and things users do not need to know (but you want to say) then it’s still too much.
 
-Writing body copy
+### Writing body copy
 Keep your body copy as focused as possible.
 
 Remember that you’re likely to be battling outside factors for people’s attention, not least their mood and situation. They might be looking on a mobile on a train, trying to complete their task online in the middle of a stressful family event or any combination of multiple unknowns. If you want their attention, do not waste their time.
 
-Do not repeat the summary in the first paragraph.
-Use the ‘inverted pyramid’ approach with the most important information at the top tapering down to lesser detail.
-Break up text with descriptive subheadings. The text should still make sense with the subheadings removed.
-Paragraphs should have no more than 5 sentences each.
-Includes keywords to boost natural search rankings.
-Sub-headings
+1. Do not repeat the summary in the first paragraph.
+2. Use the ‘inverted pyramid’ approach with the most important information at the top tapering down to lesser detail.
+3. Break up text with descriptive subheadings. The text should still make sense with the subheadings removed.
+4. Paragraphs should have no more than 5 sentences each.
+5. Includes keywords to boost natural search rankings.
+
+### Sub-headings
 Make sure your sub-headings are front-loaded with search terms and make them active.
 
 Do not use:
+- present participles, for example ‘Apply for a licence’ not ‘Applying for a licence’
+- questions
+- technical terms unless you’ve already explained them
+- ‘introduction’ as your first section – users do not want an introduction, just give the most important information
 
-present participles, for example ‘Apply for a licence’ not ‘Applying for a licence’
-questions
-technical terms unless you’ve already explained them
-‘introduction’ as your first section – users do not want an introduction, just give the most important information
 Do not skip heading levels, for example from H2 to H4. Screen reader users may navigate using a list of headings - a missed heading level can make this confusing.
 
-Do not use FAQs
+### Do not use FAQs
 FAQs are strongly discouraged on Rotherham.gov.uk. If you write content by starting with user needs, you will not need to use FAQs.
 
 FAQs are discouraged because they:
+- duplicate other content on the site
+- cannot be front-loaded (putting the most important words people will search for), which makes usability difficult
+- are usually not frequently asked questions by the public, but important information dumped by the content editor
+- mean that content is not where people expect to find it; it needs to be in context
+- can add to search results with duplicate, competing text
 
-duplicate other content on the site
-cannot be front-loaded (putting the most important words people will search for), which makes usability difficult
-are usually not frequently asked questions by the public, but important information dumped by the content editor
-mean that content is not where people expect to find it; it needs to be in context
-can add to search results with duplicate, competing text
 If your call-centres get questions that really are frequently asked, get in touch and GDS will help find a way to take care of those user needs.
+
+---
 
 Writing to Rotherham.gov.uk style
 It’s important to stick to the style guide. The style guide is based on a lot of user testing.
