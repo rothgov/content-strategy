@@ -17,7 +17,7 @@ How to write well for your audience, including specialists.
 - [After publication](#after-publication)
 
 ## Writing well for the web
-People read differently on the web than they do on paper. This means that the best approach when writing for the web is different from writing for print.
+[People read differently on the web](https://www.nngroup.com/articles/how-users-read-on-the-web/) than they do on paper. This means that the best approach when writing for the web is different from writing for print.
 
 Our guidance on writing for Rotherham.gov.uk is based on research into how people read online and how people use Rotherham.gov.uk. It explains what each rule is based on.
 
@@ -465,4 +465,3 @@ You should regularly confirm that your content works for your users. You can che
 - how users got to your page and where they clicked next (are they going where you expected or wanted them to?)
 - user feedback left on Rotherham.gov.uk through the 'Was this information useful' feature
 - feedback from any offline channels, for example, helplines
-
