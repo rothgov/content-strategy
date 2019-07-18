@@ -59,8 +59,6 @@ This helps people find what they need quickly and absorb it effortlessly.
 
 The main purpose of Rotherham.gov.uk is to provide information - there's no excuse for putting unnecessarily complicated writing in the way of people's understanding.
 
----
-
 ## Writing well for specialists
 Government experts often say that because they're writing technical or complex content for a specialist audience, they do not need to use plain English. This is wrong.
 
@@ -96,8 +94,6 @@ This may be a legal requirement, but not completing it would just stop the perso
 ### Footnotes and legal language
 Do not use footnotes on documents. They're designed for reference in print, not web pages. Always consider the user need first. If the information in the footnotes is important, include it in the body text. If it's not, leave it out.
 
----
-
 ## Know your audience
 Your writing will be most effective if you understand who you're writing for.
 
@@ -114,8 +110,6 @@ The Rotherham.gov.uk audience is potentially anyone living in Rotherham who need
 The best way to do this is by using common words and working with natural reading behaviour.
 
 If you're writing for a specialist audience, you still need to make sure everyone can understand what the content is about.
-
----
 
 ### How people read
 Knowing how people read means you'll write in a way they can understand easily and quickly - so you do not waste their time.
@@ -199,8 +193,6 @@ At the activity centre:
 - you can swim
 - you can play
 - you can run
- 
----
 
 ## Titles
 Most people who use Rotherham.gov.uk start with a search engine. Use the same vocabulary as your audience so they can find your content. This begins with your page title and summary.
@@ -277,8 +269,6 @@ Title example: Highways Agency environmental strategy
 
 On its own, 'Environmental strategy' could apply to any department or agency. In this case, it's better to add the department name to differentiate it.
 
----
-
 ## Summaries
 Along with the title, the summary is usually what users see in search results so it should give them a clear indication of what the content is about. Make sure people can see quickly whether the page will have the information they need.
 
@@ -341,8 +331,6 @@ Bad summary example: Training materials for gas pollution, contingency planning 
 
 Good summary example: Get the supporting materials for the 'gas pollution contingency planning and response' course, and an overview of what to do to comply with the National Contingency Plan.
 
----
-
 ### Structuring your content
 ## Page length
 There is no minimum or maximum page length for Rotherham.gov.uk. However:
@@ -387,9 +375,7 @@ FAQs are discouraged because they:
 
 If your call-centres get questions that really are frequently asked, get in touch and GDS will help find a way to take care of those user needs.
 
----
-
-Writing to Rotherham.gov.uk style
+## Writing to Rotherham.gov.uk style
 It's important to stick to the style guide. The style guide is based on a lot of user testing.
 
 Government Digital Services (GDS) commissioned research on the impact of style guides. Have a look.
@@ -472,8 +458,6 @@ However, it's not obvious who 'we' is in all content. For example, in a publicat
 
 Using 'we' is fine, as long as you're making it clear as much as possible who the 'we' is. Do not assume the audience will know. Each time you use 'we', make sure you've already used the full name of the department or agency in that specific section.
 
----
-
 ## After publication
 ### Check your content is working for your users
 You should regularly confirm that your content works for your users. You can check:
@@ -481,3 +465,4 @@ You should regularly confirm that your content works for your users. You can che
 - how users got to your page and where they clicked next (are they going where you expected or wanted them to?)
 - user feedback left on Rotherham.gov.uk through the 'Was this information useful' feature
 - feedback from any offline channels, for example, helplines
+
